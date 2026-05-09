@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is Ketan Jethva and I'm a Web Develover</h2>
+<h2 align="left">Hi 👋! My name is Ketankumar Jethva</h2>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ketanjethva25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketanjethva25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
-<img align="right" height="150" src="https://devakshay.vercel.app/assets/img/Me.png"  />
+<!-- <img align="right" height="150" src="https://devakshay.vercel.app/assets/img/Me.png"  /> -->
 
 ###
 
