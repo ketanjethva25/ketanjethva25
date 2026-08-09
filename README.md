@@ -1,47 +1,72 @@
-<h2 align="left">Hi 👋! My name is Ketankumar Jethva</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=Ketankumar%20Jethva&fontColor=ffffff&fontSize=45&fontAlignY=38" />
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3500\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=900\&lines=Full+Stack+Developer;Web+Developer;Data+Analysis+%7C+Python+%7C+AI+ML;Building+Creative+Projects)](https://git.io/typing-svg)
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketanjethva25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketanjethva25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+</div>
 
-###
+<div align="center">
+  <!-- <a href="https://www.instagram.com/anish_jethva18" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" /> -->
+  </a>
+  <a href="https://www.linkedin.com/in/ketanjethva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+  <a href="mailto:ketankumar.jethva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+</div>
 
-<!-- <img align="right" height="150" src="https://devakshay.vercel.app/assets/img/Me.png"  /> -->
+---
 
-###
+## ⚡ A Little Bit About Me
+
+- 🎓 **M.Sc. IT (Full Stack Development with Data Science & AI-ML) Student** focused on advanced software systems and information technology.
+- 💻 **Web Developer** dedicated to building clean, interactive, and high-performance applications.
+- 🛠️ Expertise in **Java, Python**, and modern web technologies like **React.js and Node.js**.
+- 🌱 Constantly learning new ways to **optimize code** and enhance **UI/UX design**.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,php,c,mysql,java,python,git,github,vscode,linux,postman"/> -->
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,js,sql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Cloud • Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+</p>
+
+  
 </div>
 
-###
+---
 
-  <a href="ketan.jethva2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ketan-jethva25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 🐍 Contribution Activity
 
-###
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/ketanjethva25/ketanjethva25/output/snake-dark.svg" alt="Snake animation" />
+</div> -->
 
 <br clear="both">
 
@@ -51,5 +76,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ketanjethva25/ketanjethva25/output/github-snake.svg" />
 </picture>
 
+---
 
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ketanjethva25.ketanjethva25" />
+</div>
